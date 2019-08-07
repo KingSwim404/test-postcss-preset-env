@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ###  重点配置：
 
- importFrom:一定不能没有。需要你手动指定你定义的 CSS路径。
+ importFrom:一定不能没有。需要你手动指定你定义的CSS路径。
 
 ```json
 "postcss": {
